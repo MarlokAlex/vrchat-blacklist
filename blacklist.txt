@@ -1,3 +1,1 @@
 TestPlayer
-89
-[1] Local Player
