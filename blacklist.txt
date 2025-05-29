@@ -1,2 +1,1 @@
 TestPlayer
-[1] Local Player
